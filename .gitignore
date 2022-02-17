@@ -1,0 +1,6 @@
+__pycache__
+env
+secret
+.vscode
+sqlite_db
+private
