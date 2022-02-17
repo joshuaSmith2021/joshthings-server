@@ -1,2 +1,4 @@
-# Laundry Bot Server
-This is a Python Flask app that runs on a Google Cloud VM. Its main purpose is scraping Cal Poly's laundry website and serving JSON data that represents the availability of laundry machines all over campus. It is currently running on [api.joshthings.com](https://api.joshthings.com/raw_status).
+# joshthings server
+This server does anything and everything I need it to. Quite possibly the greatest code ever written.
+> joshthings server is certainly the best flask app ever made, maybe the best code every written, period.
+Sun Tzu, The Art of War
